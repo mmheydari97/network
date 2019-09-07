@@ -14,7 +14,8 @@ There is a step by step guide about the simulation part [here](https://www.apara
 
 ### Running
 ```
-Before running p2p file sharing part, make sure to create an empty directory named "Dirs" next to the code file.
+Before running p2p file sharing part, make sure to create an empty 
+directory named "Dirs" next to the code file.
 ```
 
 ## License
