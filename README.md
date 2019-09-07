@@ -10,11 +10,12 @@ This repository contains three parts:
 
 You only have to be familiar with fundamentals of computer networks and basic Java programming.
 
-```
 There is a step by step guide about the simulation part [here](https://www.aparat.com/v/ZhO4v).
-```
+
 ### Running
+```
 Before running p2p file sharing part, make sure to create an empty directory named "Dirs" next to the code file.
+```
 
 ## License
 
